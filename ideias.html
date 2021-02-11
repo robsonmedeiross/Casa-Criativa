@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900&display=swap" rel="stylesheet">
+    <Link rel="stylesheet" href="style.css"/>
+
+    <title>Ideias</title>
+</head>
+<body id="page-ideias">
+    <div id="container">
+        <header>
+            <a href="index.html">
+                <img src="imagens/27pdZLL.png" alt="Imagens da casacriativa">
+            </a> 
+            <nav>
+                <li><a href="index.html">Pagina Inicial</a></li>
+                <li><a onclick="onOff()" >Nova Ideia</a></li>
+            </nav>
+        </header>
+        <section id="title">
+            <p>em exibição</p>
+            <h1>Ideias</h1>
+        </section>
+        <main>
+            <div id='empty' onclick="onOff()"></div>
+            <section id="idea" >
+                <!-- <div class="idea">
+                    <img 
+                        src="https://image.flaticon.com/icons/svg/2729/2729007.svg" 
+                        alt="Imagem de curso de programação"/>
+                <div class="content">
+                    <h3>Curso de programação</h3>
+                    <p>Estudo</p>
+                    <div class="description">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia reiciendis laborum rerum nisi cum, provident vitae earum cupiditate.
+                    </div>
+                    <a href="#">Ir para ideia</a>
+                </div>
+                </div>
+                <div class="idea">
+                    <img 
+                        src="https://image.flaticon.com/icons/svg/2729/2729007.svg" 
+                        alt="Imagem de curso de programação"/>
+                    <div class="content">
+                        <h3>Curso</h3>
+                        <p>Estudo</p>
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia reiciendis laborum rerum nisi cum, provident vitae earum cupiditate.
+                        </div>
+                        <a href="#">Ir para ideia</a>
+                    </div>
+                </div>
+                <div class="idea">
+                    <img 
+                        src="https://image.flaticon.com/icons/svg/2729/2729007.svg" 
+                        alt="Imagem de curso de programação"/>
+                    <div class="content">
+                        <h3>Curso de programação</h3>
+                        <p>Estudo</p>
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia reiciendis laborum rerum nisi cum, provident vitae earum cupiditate.
+                        </div>
+                        <a href="#">Ir para ideia</a>
+                    </div>
+                </div>
+                <div class="idea">
+                    <img 
+                        src="https://image.flaticon.com/icons/svg/2729/2729007.svg" 
+                        alt="Imagem de curso de programação"/>
+                    <div class="content">
+                        <h3>Curso de programação</h3>
+                        <p>Estudo</p>
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia reiciendis laborum rerum nisi cum, provident vitae earum cupiditate.
+                        </div>
+                        <a href="#">Ir para ideia</a>
+                    </div>
+                </div> -->
+            </section>
+        </main>
+        <footer>Robson Medeiros | <a href="https://github.com/robsonmedeiross" target="_blank">Github</a></footer>
+
+    
+    </div>
+<!-- Modal -->
+
+<div id="modal" class="hide">
+    <div class="content">
+        <h1>Nova Ideia</h1>
+        <form id='myAnchor'>
+            <input  type="hidden" id="id" name="id">
+            <div id="grid-form" >
+                <div class="input-wapper">
+                    <label for="title">Titulo da Ideia</label>
+                    <input type="text" id="titulo" name="title" required >
+                </div>
+                <div class="input-wapper">
+                    <label  for="category"> Categoria</label>
+                    <input type="text" id="category" name="category" required >
+                </div>
+                <div class="input-wapper">
+                    <label for="image">Link da Imagen</label>
+                    <input type="link" id='image' name="image" required >
+                </div>
+                <div class="input-wapper">
+                    <label for="description">Crie uma descrição </label>
+                    <textarea id="description"
+                        name="description" 
+                        required 
+                        cols="30" rows="10"></textarea>        
+                </div>
+                <div class="input-wapper">
+                    <label for="link">Link da Ideia</label>
+                    <input type="link" id="link" name="link" required>
+                </div>
+                <button type="submit">Salvar</button>
+                <a onclick="onOff()" class="button">Voltar</a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
