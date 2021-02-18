@@ -36,7 +36,7 @@ Tabela de conteúdos
 - [x] Link para ideias
 
 # Demonstração da aplicação
-![Gif - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20CasaCriativa.png)
+![Gif - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/CasaCriativa%20-%20gif.gif)
 
 
 
