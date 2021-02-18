@@ -16,11 +16,6 @@ Tabela de conteúdos 🏁
 =================
 <!--ts-->
    * [Sobre](#Casa-Criativa)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Features](#Features)
-   * [Demonstração da aplicaçãor](#Demonstração-da-aplicação)
-   * [Como rodar o projeto](#Como-rodar-o-projeto)
-   * [Tecnologias](#tecnologias)
 <!--te-->
 
 # Features 👌
