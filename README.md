@@ -15,7 +15,12 @@ O sistema cataloga **ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas*
 Tabela de conteúdos 🏁
 =================
 <!--ts-->
-   * [Sobre](#Casa-Criativa)
+   * [Sobre](#Casa-Criativa-🏠)
+   * [Tabela de Conteudo](#tabela-de-conteúdos)
+   * [Features](#Features)
+   * [Demonstração da aplicaçãor](#Demonstração-da-aplicação)
+   * [Como rodar o projeto](#Como-rodar-o-projeto)
+   * [Tecnologias](#tecnologias)
 <!--te-->
 
 # Features 👌
