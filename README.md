@@ -1,7 +1,7 @@
 ![Banner - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20CasaCriativa.png)
 
 
-# Casa-Criativa 🏠
+# 🏠 Casa-Criativa 
 
 #### Descrição do projeto
 
@@ -15,7 +15,7 @@ O sistema cataloga **ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas*
 Tabela de conteúdos 🏁
 =================
 <!--ts-->
-   * [Sobre](#Casa-Criativa-🏠)
+   * [Sobre](#Casa-Criativa)
    * [Tabela de Conteudo](#tabela-de-conteúdos)
    * [Features](#Features)
    * [Demonstração da aplicaçãor](#Demonstração-da-aplicação)
