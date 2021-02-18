@@ -33,4 +33,7 @@ Tabela de conteúdos
 - [x] Cadastro de ideias
 - [x] Editar ideias
 - [x] Excluir ideias
+- [x] Link para ideias
+
+Demonstração da aplicação
 
