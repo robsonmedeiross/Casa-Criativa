@@ -7,3 +7,4 @@
 
 Sistema de cadastro de ideias para tornar o momento de confinamento pelo Covid-19 mais interessante
 O sistema cataloga *ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas* e tudo que for necessário para tornar esse momento mais interessante.
+
