@@ -17,14 +17,9 @@ Tabela de conteúdos 🏁
 <!--ts-->
    * [Sobre](#Casa-Criativa)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Features](#Features)
+   * [Demonstração da aplicaçãor](#Demonstração da aplicação)
+   * [Como rodar o projeto](#Como rodar o projeto)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -67,7 +62,7 @@ $ code .
 # Tecnologias 🛠 
 
 
-#### No projeto não foram utilizadas nenhum framework ou bibliotecas, apenas javascript puro e as liguagens de marcação HTML e CSS.
+#### No projeto não foram utilizadas nenhum framework ou bibliotecas, apenas javascript puro e as liguagens de marcação HTML e CSS. As ideias são salvas em local storage.
 
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green" />](https://github.com/robsonmedeiross/Casa-Criativa/blob/main/LICENSE)
 
