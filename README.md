@@ -28,7 +28,7 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-### Features
+# Features
 
 - [x] Cadastro de ideias
 - [x] Editar ideias
