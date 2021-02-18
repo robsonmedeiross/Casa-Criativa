@@ -69,3 +69,5 @@ $ code .
 
 #### No projeto não foram utilizadas nenhum framework ou bibliotecas, apenas javascript puro e as liguagens de marcação HTML e CSS.
 
+<img href="https://img.shields.io/badge/LICENSE-MIT-green" />
+
