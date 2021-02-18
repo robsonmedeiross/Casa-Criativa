@@ -1,7 +1,7 @@
 ![Banner - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20CasaCriativa.png)
 
 
-# Casa-Criativa 
+Casa-Criativa 
 🏠
 =================
 
@@ -26,7 +26,7 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-# Features 
+Features 
 👌
 =================
 
@@ -35,7 +35,7 @@ Tabela de conteúdos
 - [x] Excluir ideias
 - [x] Link para ideias
 
-# Demonstração da aplicação 
+Demonstração da aplicação 
 ⚡
 =================
 
@@ -45,7 +45,7 @@ Tabela de conteúdos
 
 ![Gif - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/CasaCriativa%20-%20gif.gif)
 
-# Como rodar o projeto 
+Como rodar o projeto 
 🚀
 =================
 
@@ -68,7 +68,7 @@ $ code .
 * click em 'open with Live Serve'
 ```
 
-# Tecnologias 
+Tecnologias 
 🛠 
 =================
 
