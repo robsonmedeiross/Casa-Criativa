@@ -21,9 +21,9 @@ function listaStorage(){
                                 ${storeg.data.description}
                             </div>
                             <section  class="link" >
-                                <a href='${storeg.data.link}'>Ir para ideia</a>
-                                <a onclick="onEdit(${storeg.id})" href="">Editar</a>
-                                <a onclick='onDelete(${storeg.id})' href="">Excluir</a>
+                                <a href='${storeg.data.link}' target="_Blank">Ir para ideia</a>
+                                <a onclick="onEdit(${storeg.id})" href="#">Editar</a>
+                                <a onclick='onDelete(${storeg.id})' href="#">Excluir</a>
                             </section>
                         </div>
                     </div>`;
@@ -100,7 +100,6 @@ document.getElementById("myAnchor").addEventListener("submit", async function(ev
     onOff();
     listaStorage();
     onCleanField();
-    // window.location.reload();
 });
 
 function onEdit(props){
