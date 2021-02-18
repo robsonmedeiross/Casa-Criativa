@@ -2,7 +2,7 @@
 
 
 # Casa-Criativa 
-
+🏠
 #### Descrição do projeto
 
 Sistema de cadastro de ideias para tornar o momento de confinamento pelo Covid-19 mais interessante
@@ -24,14 +24,16 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-# Features 👌
+# Features 
+👌
 
 - [x] Cadastro de ideias
 - [x] Editar ideias
 - [x] Excluir ideias
 - [x] Link para ideias
 
-# Demonstração da aplicação ⚡
+# Demonstração da aplicação 
+⚡
 
 <p><a href="https://nostalgic-archimedes-b5fa83.netlify.app" >Link do deploy</a></p>
 
@@ -39,7 +41,8 @@ Tabela de conteúdos
 
 ![Gif - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/CasaCriativa%20-%20gif.gif)
 
-# Como rodar o projeto 🚀
+# Como rodar o projeto 
+🚀
 
 <p> Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta Git para poder clonar o repositório ou só baixar em arquivo zip. Bem como ter um editor para trabalhar com o código como VSCode caso ache necessario alguma mudança. </p>
 
@@ -60,8 +63,8 @@ $ code .
 * click em 'open with Live Serve'
 ```
 
-# Tecnologias 🛠 
-
+# Tecnologias 
+🛠 
 
 #### No projeto não foram utilizadas nenhum framework ou bibliotecas, apenas javascript puro e as liguagens de marcação HTML e CSS. As ideias são salvas em local storage.
 
