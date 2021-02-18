@@ -12,11 +12,12 @@ O sistema cataloga **ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas*
 	🚧 Status 🚀: Concluído. 🚧
 </h4>
 
-Tabela de conteúdos 🏁
+Tabela de conteúdos 
+🏁
 =================
 <!--ts-->
    * [Sobre](#Casa-Criativa)
-   * [Tabela de Conteudo](#tabela-de-conteúdos)
+   * [Tabela de conteúdos](#tabela-de-conteúdos)
    * [Features](#Features)
    * [Demonstração da aplicaçãor](#Demonstração-da-aplicação)
    * [Como rodar o projeto](#Como-rodar-o-projeto)
