@@ -45,24 +45,22 @@ Tabela de conteúdos 🏁
 
 # Como rodar o projeto 🚀
 
-<p> Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta Git para poder clonar o repositório. Bem como ter um editor para trabalhar com o código como VSCode </p>
+<p> Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta Git para poder clonar o repositório ou só baixar em arquivo zip. Bem como ter um editor para trabalhar com o código como VSCode caso ache necessario alguma mudança. </p>
+
+<p>Você pode clonar/baixar e abrir o index.html normalmente com o Browser de sua preferência. Caso tenha clonado e utilize o VSCode, existe um extensão chamado Live Server que é uma mão na roda para executar projetos com um servidor local.</p>
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone https://github.com/robsonmedeiross/Casa-Criativa.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd Casa-Criativa
 
-# Vá para a pasta server
-$ cd server
+# Caso esteja utilizando o VSCode utilize esse comando para abrir o projeto no editor.
+$ code .
 
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Execute a aplicação com um servidor
+* Click com o botão direito no index.html 
+* click em 'open with Live Serve'
 ```
 
