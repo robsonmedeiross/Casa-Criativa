@@ -1,7 +1,7 @@
 ![Banner - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20CasaCriativa.png)
 
 
-# 🏠 Casa-Criativa 
+# Casa-Criativa 
 
 #### Descrição do projeto
 
