@@ -9,7 +9,7 @@ Sistema de cadastro de ideias para tornar o momento de confinamento pelo Covid-1
 O sistema cataloga **ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas** e tudo que for necessário para tornar esse momento mais interessante.
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 Status 🚀: Concluído. 🚧
 </h4>
 
 Tabela de conteúdos
