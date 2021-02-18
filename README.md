@@ -12,7 +12,7 @@ O sistema cataloga **ideias, Brincadeiras, jogos, filmes, livros, cursos, dicas*
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Sobre](#Casa-Criativa)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
