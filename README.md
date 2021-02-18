@@ -64,3 +64,8 @@ $ code .
 * click em 'open with Live Serve'
 ```
 
+# Tecnologias 🛠 
+
+
+#### No projeto não foram utilizadas nenhum framework ou bibliotecas, apenas javascript puro e as liguagens de marcação HTML e CSS.
+
