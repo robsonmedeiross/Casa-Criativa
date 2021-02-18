@@ -36,10 +36,8 @@ Tabela de conteúdos
 - [x] Link para ideias
 
 # Demonstração da aplicação
+
+<a href="https://nostalgic-archimedes-b5fa83.netlify.app" >Link do deploy</a>
+
 ![Gif - CasaCriativa](https://github.com/robsonmedeiross/Assets-git/blob/main/CasaCriativa%20-%20gif.gif)
-![Link - CasaCriativa](https://nostalgic-archimedes-b5fa83.netlify.app)
-
-
-
-
 
