@@ -39,7 +39,7 @@ Demonstração da aplicação
 ⚡
 =================
 
-<p><a href="https://nostalgic-archimedes-b5fa83.netlify.app" >Link do deploy</a></p>
+<p><a href="https://nostalgic-archimedes-b5fa83.netlify.app" >Link da aplicaçãoy</a></p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64777c75-9c15-4760-a6b3-4802a2a3b58a/deploy-status)](https://app.netlify.com/sites/nostalgic-archimedes-b5fa83/deploys)
 
