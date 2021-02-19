@@ -34,6 +34,7 @@ Features
 - [x] Editar ideias
 - [x] Excluir ideias
 - [x] Link para ideias
+- [ ] mobile/resposive
 
 Demonstração da aplicação 
 ⚡
