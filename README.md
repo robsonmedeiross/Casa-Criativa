@@ -80,7 +80,7 @@ Tecnologias
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://html.com)
 - [CSS](https://purecss.io)
-- [LOCALSTORAGE](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green" />](https://github.com/robsonmedeiross/Casa-Criativa/blob/main/LICENSE)
 
