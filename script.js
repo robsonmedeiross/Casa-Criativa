@@ -6,9 +6,8 @@ function listaStorage(){
     if(storaged){
         if(storaged.length > 2){
         document.querySelector("div#empty").classList.remove('empty');
+        document.querySelector('section#idea').innerHTML = '';
         storeged = JSON.parse(localStorage.getItem("@casacriativa"));
-        document.querySelector('section#idea')
-        .innerHTML = '';
         storeged.map(storeg => {
             document.querySelector('section#idea')
                 .innerHTML += 
@@ -128,6 +127,8 @@ function onDelete(props){
 
     storeged.splice(storegedIndex, 1);
     localStorage.setItem("@casacriativa", JSON.stringify(storeged));
+    document.querySelector('section#idea').innerHTML = '';
+
     listaStorage();
 }
 
