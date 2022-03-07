@@ -17,6 +17,7 @@ function listaStorage(){
                                 alt='Imagem'
                             />
                             <h3>${storeg.data.title}</h3>
+                        </div>
                         <div class="content">
                             <p>${storeg.data.category}</p>
                             <div class="description">
