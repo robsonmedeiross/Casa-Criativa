@@ -107,6 +107,10 @@ footer a{
     opacity: 0.7;
 }
 
+#empty {
+    display: none;
+}
+
 .empty{
     width: 660px;
     height: 230px;
@@ -116,7 +120,7 @@ footer a{
     cursor: pointer; 
     box-shadow: 04px 08px 16px -8px black;
     transition: .5s;
-    display:flex;
+    display:flex !important;
     justify-content:center;
     align-items:center;
 }

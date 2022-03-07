@@ -2,7 +2,9 @@ let storeged = [];
 
 function listaStorage(){
     storaged = localStorage.getItem('@casacriativa');
+    console.log(storaged);
     if(storaged){
+        if(storaged.length > 2){
         document.querySelector("div#empty").classList.remove('empty');
         storeged = JSON.parse(localStorage.getItem("@casacriativa"));
         document.querySelector('section#idea')
@@ -31,6 +33,9 @@ function listaStorage(){
                         </div>
                     </div>`;
         });
+        }else{
+            document.querySelector("div#empty").classList.add('empty');
+        }
     }else{
         document.querySelector("div#empty").classList.add('empty');
     }
@@ -89,9 +94,9 @@ document.getElementById("myAnchor").addEventListener("submit", async function(ev
             data: {
                 title: title,
                 category: category,
-                image: image,
+                image: image ? image :"/imagens/light-idea.svg",
                 description: description,
-                link: link
+                link: link ? link : ""
             }
         }
         storeged.push(newIdea);
