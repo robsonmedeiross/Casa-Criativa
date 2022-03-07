@@ -1,0 +1,43 @@
+@media screen and (max-width: 768px){
+  #container{
+    flex-direction: column;
+    position: relative;
+  }
+
+  #intro {
+    width: auto;
+  }
+
+  footer {
+    width: 100%;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%)
+  }
+}
+
+@media screen and (max-width: 540px){
+  .idea .content {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .idea {
+    min-width: 215px;
+  }
+
+  .idea-header {
+    flex-direction: column;
+  }
+
+  .idea img {
+    margin: 0;
+  }
+
+  .idea p {
+    display: flex;
+    justify-content: center;
+  }
+}
