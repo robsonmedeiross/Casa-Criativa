@@ -11,11 +11,13 @@ function listaStorage(){
             document.querySelector('section#idea')
                 .innerHTML += 
                     `<div class='idea'>
-                        <img 
-                            src='${storeg.data.image}'
-                            alt='Imagem'/>
-                        <div class="content">
+                        <div class="idea-header">
+                            <img 
+                                src='${storeg.data.image}'
+                                alt='Imagem'
+                            />
                             <h3>${storeg.data.title}</h3>
+                        <div class="content">
                             <p>${storeg.data.category}</p>
                             <div class="description">
                                 ${storeg.data.description}

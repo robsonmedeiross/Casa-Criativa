@@ -37,15 +37,18 @@ p, .description{
 }
 
 
-
 /* -------------Especificos----------- */
 
-
-body #container{
+#container{
     width: 90%;
     max-width: 980px;
-    margin: 80px auto;
+    margin: 80px auto 0;
     display: flex;
+}
+
+header img{
+    display: block;
+    margin: auto;
 }
 
 #intro{
@@ -55,13 +58,11 @@ body #container{
 
 main{
     margin: 32px 0;
-
 }
 
 #buttons{
     display: flex;
     justify-content: space-evenly;
-    
     margin-bottom: 32px;
 }
 
@@ -69,12 +70,10 @@ button{
     background: none;
     border: none;
     color: #dc143c;
-
     font-size: 14px;
     line-height: 18px;
     font-weight: bold;
     letter-spacing: 0.2px;
-
     cursor: pointer;
     outline: none;
 }
@@ -88,23 +87,18 @@ button.fat{
     text-decoration: none;    
     background: #dc143c;
     color: #e5e5e5;
-
     width: 150px;
     height: 40px;
-
     border-radius: 6px;
     box-shadow: 4px 8px 10px rgba(255, 0, 92, 0.16);
-
 }
 
 footer{
     text-align: center;
-
     font-size: 14px;
     line-height: 24px;
     font-weight: 400;
     letter-spacing: 0.2px;
-
     color: #777
 }
 
@@ -116,35 +110,49 @@ footer a{
 .empty{
     width: 660px;
     height: 230px;
-    background: url("imagens/mais.svg") no-repeat 50% 50% #fff;
-    background-size: 50px ;
+    background:#fff;
     margin-bottom: 16px;
-
     margin: auto;
-
     cursor: pointer; 
     box-shadow: 04px 08px 16px -8px black;
     transition: .5s;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 .empty:hover{
     transform: scale(1.04);   
 }
 
+.empty img{
+    width: 50px; 
+}
+
+
+#last-idea{
+    margin-bottom: 80px;
+}
+
 .idea {
     min-width: 300px;
     display: flex;
+    flex-direction: column;
     background: white;
     margin-bottom: 16px;
-
     padding: 32px;
-
     border-radius: 8px;
     box-shadow: 04px 08px 16px -8px black;
 }
 
+.idea-header {
+    display: flex;
+    align-items: center;
+}
+
 .idea .content{
-    width: 100%;
+    width: auto;
+    padding-left: 92px;
 }
 
 .idea img{
@@ -158,7 +166,7 @@ footer a{
 }
 
 .idea p{
-    margin-top: 8px 0px;
+    margin-top: 8px;
     color: #777;
 }
 
@@ -180,7 +188,6 @@ footer a{
     right: 0;
     left: 0;
     bottom: 0;
-
     display: flex;
     justify-content: center;
     transition: .6s;
@@ -191,7 +198,6 @@ footer a{
     margin: 5% auto auto;
     color: white;
     border-radius: 6px;
-    
 }
 
 #modal.hide{
@@ -212,7 +218,6 @@ form #grid-form{
     width: 80%;
     max-width: 600px;
     margin: 0 auto 10%;
-
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
@@ -228,10 +233,8 @@ form input, textarea{
     width: 100%;
     padding: 6px;
     border-radius: 6px;
-
     border: 1px solid rgba(141, 15, 50, 0.5);
     font-size: 12px;
-
     box-sizing: border-box; 
 }
 
@@ -245,10 +248,8 @@ form button, a.button {
     width: 150px;
     height: 40px;
     background: #fff;
-
     border-radius: 6px;
     margin-top: 12px;
-
 }
 
 form button:hover, a.button:hover{
@@ -262,7 +263,6 @@ form button{
 form a.button{
     justify-self: end;
     cursor: pointer;
-
     display: flex   ;
     justify-content: center;
     align-items: center;
@@ -271,10 +271,8 @@ form a.button{
 
 /* Modal PageIdeia   */
 
-
 #page-ideias #container{
     display: block;
-
 }
 #page-ideias header{
     display: flex;
@@ -293,8 +291,6 @@ form a.button{
 
 #page-ideias nav li:last-child {
     margin-right: 0;
-    
-
 }
 
 #page-ideias nav li:last-child a{
@@ -302,15 +298,12 @@ form a.button{
     width: 150px;
     height: 40px;
     background: #dc143c;
-    
     display: flex;
     align-items: center;
     justify-content: center;
-
     border-radius: 6px;
     cursor: pointer;
     text-decoration: none;
-
 }
 
 section#title{
@@ -330,6 +323,5 @@ section#title h1{
 #page-ideias section#idea{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    
     gap: 20px;
 }
