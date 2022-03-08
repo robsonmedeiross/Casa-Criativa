@@ -99,7 +99,8 @@ footer{
     line-height: 24px;
     font-weight: 400;
     letter-spacing: 0.2px;
-    color: #777
+    color: #777;
+    margin-bottom: 40px;
 }
 
 footer a{
@@ -112,7 +113,7 @@ footer a{
 }
 
 .empty{
-    width: 660px;
+    max-width: 660px;
     height: 230px;
     background:#fff;
     margin-bottom: 16px;
